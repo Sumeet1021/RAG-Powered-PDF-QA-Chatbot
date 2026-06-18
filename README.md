@@ -75,9 +75,10 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+<img width="1918" height="822" alt="image" src="https://github.com/user-attachments/assets/3b531356-96f0-4b72-bae7-bcf7e1a66809" />
+<img width="1427" height="557" alt="image" src="https://github.com/user-attachments/assets/655af789-3cf6-4a8b-8559-cf4383ac98ac" />
 
----
+
 
 ## 👨‍💻 Author
 
